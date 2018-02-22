@@ -1,0 +1,10 @@
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\bin\Debug\ChatAppSchool.exe.config
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\bin\Debug\ChatAppSchool.exe
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\bin\Debug\ChatAppSchool.pdb
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\obj\Debug\ChatAppSchool.csprojResolveAssemblyReference.cache
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\obj\Debug\ChatAppSchool.Form1.resources
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\obj\Debug\ChatAppSchool.Properties.Resources.resources
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\obj\Debug\ChatAppSchool.csproj.GenerateResource.Cache
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\obj\Debug\ChatAppSchool.csproj.CoreCompileInputs.cache
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\obj\Debug\ChatAppSchool.exe
+C:\Users\Boontje\source\repos\ChatAppSchool\ChatAppSchool\obj\Debug\ChatAppSchool.pdb
